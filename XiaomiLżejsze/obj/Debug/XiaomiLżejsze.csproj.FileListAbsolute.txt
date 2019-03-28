@@ -1,0 +1,11 @@
+C:\Users\kamkom\Desktop\miuidebloater2\XiaomiLżejsze\XiaomiLżejsze\bin\Debug\XiaomiLżejsze.exe
+C:\Users\kamkom\Desktop\miuidebloater2\XiaomiLżejsze\XiaomiLżejsze\bin\Debug\XiaomiLżejsze.pdb
+C:\Users\kamkom\Desktop\miuidebloater2\XiaomiLżejsze\XiaomiLżejsze\obj\Debug\XiaomiLżejsze.Form1.resources
+C:\Users\kamkom\Desktop\miuidebloater2\XiaomiLżejsze\XiaomiLżejsze\obj\Debug\XiaomiLżejsze.Form2.resources
+C:\Users\kamkom\Desktop\miuidebloater2\XiaomiLżejsze\XiaomiLżejsze\obj\Debug\XiaomiLżejsze.Properties.Resources.resources
+C:\Users\kamkom\Desktop\miuidebloater2\XiaomiLżejsze\XiaomiLżejsze\obj\Debug\XiaomiLżejsze.csproj.GenerateResource.Cache
+C:\Users\kamkom\Desktop\miuidebloater2\XiaomiLżejsze\XiaomiLżejsze\obj\Debug\XiaomiLżejsze.exe
+C:\Users\kamkom\Desktop\miuidebloater2\XiaomiLżejsze\XiaomiLżejsze\obj\Debug\XiaomiLżejsze.pdb
+C:\Users\kamkom\Desktop\miuidebloater2\XiaomiLżejsze\XiaomiLżejsze\obj\Debug\XiaomiLżejsze.Form5.resources
+C:\Users\kamkom\Desktop\miuidebloater2\XiaomiLżejsze\XiaomiLżejsze\obj\Debug\XiaomiLżejsze.csprojResolveAssemblyReference.cache
+C:\Users\kamkom\Desktop\miuidebloater2\XiaomiLżejsze\XiaomiLżejsze\obj\Debug\XiaomiLżejsze.Form3.resources
